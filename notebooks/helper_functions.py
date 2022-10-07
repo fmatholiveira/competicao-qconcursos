@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 def jupyter_settings():
     pd.options.display.max_columns = None

@@ -17,6 +17,7 @@ eggs/
 lib/
 data/
 scripts/
+share/
 lib64/
 parts/
 share/

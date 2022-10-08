@@ -19,6 +19,7 @@ data/
 scripts/
 lib64/
 parts/
+share/
 sdist/
 var/
 wheels/
